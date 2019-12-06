@@ -80,6 +80,10 @@ You have just some minutes to fix that and show the navbar in a demo for the man
 
 ```
 
+## License
+
+This project is licensed under the MIT License
+
 
 
 
