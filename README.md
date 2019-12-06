@@ -22,7 +22,7 @@ Tip: You should explore the correct event listeners.
 
 ## Challenge 02
 
-You were assigned a ticket to create a fixed navbar on the bottom of screen. According to the requirments, the navbar should sticky to the bottom all the time during the user navigaton.
+You were assigned a ticket to create a fixed navbar on the bottom of screen. According to the requirements, the navbar should sticky to the bottom all the time during the user navigaton.
 A previous developer wrote the code below. However, the navbar implemented stays in a wrong position. 
 
 You have just some minutes to fix that and show the navbar in a demo for the managment team.  How would you solve it changing only one property of CSS?
@@ -67,6 +67,8 @@ You have just some minutes to fix that and show the navbar in a demo for the man
 
   <body>
     <section class="main">
+      <section>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut tristique et egestas quis. Nisl tincidunt eget nullam non nisi est sit. Lacinia quis vel eros donec ac odio tempor. Diam ut venenatis tellus in metus vulputate eu scelerisque felis. Id donec ultrices tincidunt arcu non sodales neque. Velit laoreet id donec ultrices tincidunt arcu non sodales. Nec ultrices dui sapien eget mi proin sed. Ullamcorper malesuada proin libero nunc consequat. Enim nunc faucibus a pellentesque sit amet porttitor. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Massa tincidunt nunc pulvinar sapien. Placerat in egestas erat imperdiet sed euismod nisi porta. Aenean vel elit scelerisque mauris pellentesque. Enim lobortis scelerisque fermentum dui faucibus in ornare. Facilisis gravida neque convallis a. Erat pellentesque adipiscing commodo elit at. Maecenas volutpat blandit aliquam etiam.
+      </section>
       <nav class="navigation"><button>send</button></nav>
     </section>
     <section class="footer">
