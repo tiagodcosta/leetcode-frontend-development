@@ -5,8 +5,8 @@
 1. If you have to development a button for mobile, how would you handle onMouse and onTouch events? 
 2. What is the difference between SASS variables and custom CSS properties? Show code examples how they work differently.
 
-[Challenge 01](#Challenge-01)
-[Challenge 02](#Challenge-02)
+1. [Challenge 01](#Challenge-01)
+2. [Challenge 02](#Challenge-02)
 
 ## Challenge 01
 
