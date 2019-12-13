@@ -77,6 +77,10 @@ You have just some minutes to fix that and show the navbar in a demo for the man
 
 ```
 
+## Challenge 03
+
+You just developed a website that is compatible with iPad (viewport: 768px) and desktop (viewport: 1440px). However, the marketing team just sent you an ad that is 960px fixed width. How would you handle that? Give a code sample.
+
 ## Author
 
 Tiago Costa
